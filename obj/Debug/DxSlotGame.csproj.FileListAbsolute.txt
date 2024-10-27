@@ -1,0 +1,12 @@
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSlotGame\bin\Debug\DxSlotGame.exe.config
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSlotGame\bin\Debug\DxSlotGame.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSlotGame\bin\Debug\DxSlotGame.pdb
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSlotGame\bin\Debug\Siticone.UI.dll
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSlotGame\obj\Debug\DxSlotGame.csproj.AssemblyReference.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSlotGame\obj\Debug\DxSlotGame.Main.resources
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSlotGame\obj\Debug\DxSlotGame.Properties.Resources.resources
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSlotGame\obj\Debug\DxSlotGame.csproj.GenerateResource.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSlotGame\obj\Debug\DxSlotGame.csproj.CoreCompileInputs.cache
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSlotGame\obj\Debug\DxSlotGame.csproj.Up2Date
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSlotGame\obj\Debug\DxSlotGame.exe
+C:\Users\DxeiZ\OneDrive\Masaüstü\Projects\DxSlotGame\obj\Debug\DxSlotGame.pdb
